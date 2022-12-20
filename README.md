@@ -1,0 +1,2 @@
+# Excel_Crowfunding_Exploratory_01
+Excel-crowdfunding exploratory phase
